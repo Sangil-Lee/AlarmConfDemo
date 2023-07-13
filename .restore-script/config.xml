@@ -44,9 +44,14 @@
     </pv>
     <pv name="TEST:PV7">
       <description>TEST:PV7</description>
-      <enabled>true</enabled>
-      <latching>true</latching>
-      <annunciating>true</annunciating>
+      <enabled>false</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+      <automated_action>
+        <title>Command</title>
+        <details>cmd:</details>
+        <delay>0</delay>
+      </automated_action>
     </pv>
   </component>
 </config>
