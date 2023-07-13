@@ -39,7 +39,7 @@
     <pv name="TEST:PV6">
       <description>TEST:PV6</description>
       <enabled>true</enabled>
-      <latching>true</latching>
+      <latching>false</latching>
       <annunciating>true</annunciating>
     </pv>
     <pv name="TEST:PV7">

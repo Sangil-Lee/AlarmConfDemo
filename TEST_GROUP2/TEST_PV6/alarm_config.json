@@ -1,5 +1,6 @@
 {
   "user" : "JEM",
   "host" : "DESKTOP-OK7SAA6",
-  "description" : "TEST:PV6"
+  "description" : "TEST:PV6",
+  "latching" : false
 }
