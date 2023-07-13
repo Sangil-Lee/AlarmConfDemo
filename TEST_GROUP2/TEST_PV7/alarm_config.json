@@ -2,7 +2,6 @@
   "user" : "JEM",
   "host" : "DESKTOP-OK7SAA6",
   "description" : "TEST:PV7",
-  "enabled" : "2023-07-13T15:46:03.51356",
   "latching" : false,
   "annunciating" : false,
   "actions" : [ {

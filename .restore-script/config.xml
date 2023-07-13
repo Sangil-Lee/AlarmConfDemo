@@ -44,7 +44,7 @@
     </pv>
     <pv name="TEST:PV7">
       <description>TEST:PV7</description>
-      <enabled>false</enabled>
+      <enabled>true</enabled>
       <latching>false</latching>
       <annunciating>false</annunciating>
       <automated_action>
