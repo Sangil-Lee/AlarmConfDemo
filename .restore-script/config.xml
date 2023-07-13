@@ -45,7 +45,7 @@
     <pv name="TEST:PV7">
       <description>TEST:PV7</description>
       <enabled>true</enabled>
-      <latching>false</latching>
+      <latching>true</latching>
       <annunciating>false</annunciating>
       <guidance>
         <title>Procedure1</title>
