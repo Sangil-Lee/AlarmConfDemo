@@ -4,9 +4,13 @@
   "description" : "TEST:PV7",
   "latching" : false,
   "annunciating" : false,
+  "guidance" : [ {
+    "title" : "Procedure1",
+    "details" : "Valve 7510 Close"
+  } ],
   "actions" : [ {
     "title" : "Command",
-    "details" : "cmd:",
+    "details" : "cmd:echo \"Alarmed\"",
     "delay" : 0
   } ]
 }

@@ -47,9 +47,13 @@
       <enabled>true</enabled>
       <latching>false</latching>
       <annunciating>false</annunciating>
+      <guidance>
+        <title>Procedure1</title>
+        <details>Valve 7510 Close</details>
+      </guidance>
       <automated_action>
         <title>Command</title>
-        <details>cmd:</details>
+        <details>cmd:echo "Alarmed"</details>
         <delay>0</delay>
       </automated_action>
     </pv>
