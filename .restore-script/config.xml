@@ -17,8 +17,12 @@
     <pv name="TEST:PV3">
       <description>TEST:PV3</description>
       <enabled>true</enabled>
-      <latching>false</latching>
-      <annunciating>false</annunciating>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+      <guidance>
+        <title>Procedure1</title>
+        <details>Close Valve</details>
+      </guidance>
     </pv>
   </component>
   <component name="TEST:GROUP2">
