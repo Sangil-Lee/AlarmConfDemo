@@ -5,6 +5,6 @@
   "latching" : false,
   "guidance" : [ {
     "title" : "Procedure1",
-    "details" : "Close Valve"
+    "details" : "Open Valve"
   } ]
 }

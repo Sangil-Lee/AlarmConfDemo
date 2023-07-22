@@ -21,7 +21,7 @@
       <annunciating>true</annunciating>
       <guidance>
         <title>Procedure1</title>
-        <details>Close Valve</details>
+        <details>Open Valve</details>
       </guidance>
     </pv>
   </component>
