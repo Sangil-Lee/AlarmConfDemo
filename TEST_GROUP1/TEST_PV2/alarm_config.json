@@ -1,7 +1,5 @@
 {
   "user" : "ctrluser",
   "host" : "devserver",
-  "description" : "TEST:PV2",
-  "latching" : false,
-  "annunciating" : false
+  "delete" : "Deleting"
 }
