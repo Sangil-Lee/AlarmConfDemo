@@ -1,15 +1,5 @@
 {
-  "user" : "JEM",
-  "host" : "DESKTOP-OK7SAA6",
-  "description" : "TEST:PV7",
-  "annunciating" : false,
-  "guidance" : [ {
-    "title" : "Procedure1",
-    "details" : "Valve 7510 Close"
-  } ],
-  "actions" : [ {
-    "title" : "Command",
-    "details" : "cmd:echo \"Alarmed\"",
-    "delay" : 0
-  } ]
+  "user" : "ctrluser",
+  "host" : "devserver",
+  "delete" : "Deleting"
 }
