@@ -1,4 +1,5 @@
 {
   "user" : "ctrluser",
-  "host" : "devserver"
+  "host" : "devserver",
+  "delete" : "Deleting"
 }
