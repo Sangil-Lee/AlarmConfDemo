@@ -1,0 +1,6 @@
+{
+  "user" : "ctrluser",
+  "host" : "devserver",
+  "description" : "TEST-PV8_",
+  "latching" : false
+}
