@@ -1,6 +1,5 @@
 {
-  "user" : "JEM",
-  "host" : "DESKTOP-OK7SAA6",
-  "description" : "TEST:PV6",
-  "latching" : false
+  "user" : "ctrluser",
+  "host" : "devserver",
+  "delete" : "Deleting"
 }
