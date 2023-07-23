@@ -1,10 +1,5 @@
 {
-  "user" : "JEM",
-  "host" : "DESKTOP-OK7SAA6",
-  "description" : "TEST:PV3",
-  "latching" : false,
-  "guidance" : [ {
-    "title" : "Procedure1",
-    "details" : "Open Valve"
-  } ]
+  "user" : "ctrluser",
+  "host" : "devserver",
+  "delete" : "Deleting"
 }
