@@ -81,7 +81,7 @@
     </pv>
   </component>
   <component name="TEST:GROUP4">
-    <pv name="TEST:PV8">
+    <pv name="TEST:PV9">
       <description>TEST:PV8</description>
       <enabled>true</enabled>
       <latching>true</latching>
