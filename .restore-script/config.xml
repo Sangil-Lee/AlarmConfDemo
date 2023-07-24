@@ -81,5 +81,11 @@
     </pv>
   </component>
   <component name="TEST:GROUP4">
+    <pv name="TEST:PV8">
+      <description>TEST:PV8</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
   </component>
 </config>
