@@ -17,7 +17,7 @@
     <pv name="TEST:PV3">
       <description>TEST:PV3</description>
       <enabled>true</enabled>
-      <latching>false</latching>
+      <latching>true</latching>
       <annunciating>true</annunciating>
       <guidance>
         <title>Procedure1</title>
