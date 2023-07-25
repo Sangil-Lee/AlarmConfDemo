@@ -1,10 +1,13 @@
 {
   "user" : "ctrluser",
-  "host" : "devserver",
+  "host" : "devDesk",
   "description" : "TEST:PV3",
   "latching" : false,
   "guidance" : [ {
     "title" : "Procedure1",
     "details" : "Open Valve"
+  }, {
+    "title" : "Procedure2",
+    "details" : "Close Valve"
   } ]
 }
