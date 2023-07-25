@@ -18,7 +18,7 @@
       <description>TEST:PV3</description>
       <enabled>true</enabled>
       <latching>false</latching>
-      <annunciating>true</annunciating>
+      <annunciating>false</annunciating>
       <guidance>
         <title>Procedure1</title>
         <details>Open Valve</details>
