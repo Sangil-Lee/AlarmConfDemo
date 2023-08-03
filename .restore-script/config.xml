@@ -90,6 +90,10 @@
         <title>Procedure1</title>
         <details>Valve9 Close</details>
       </guidance>
+      <guidance>
+        <title>Procedure2</title>
+        <details>Valve9 Open</details>
+      </guidance>
     </pv>
   </component>
 </config>

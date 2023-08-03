@@ -6,5 +6,8 @@
   "guidance" : [ {
     "title" : "Procedure1",
     "details" : "Valve9 Close"
+  }, {
+    "title" : "Procedure2",
+    "details" : "Valve9 Open"
   } ]
 }
