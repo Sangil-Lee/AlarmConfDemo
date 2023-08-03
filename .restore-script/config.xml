@@ -84,8 +84,12 @@
     <pv name="TEST:PV9">
       <description>TEST:PV8</description>
       <enabled>true</enabled>
-      <latching>true</latching>
+      <latching>false</latching>
       <annunciating>true</annunciating>
+      <guidance>
+        <title>Procedure1</title>
+        <details>Valve9 Close</details>
+      </guidance>
     </pv>
   </component>
 </config>

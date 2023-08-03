@@ -1,5 +1,10 @@
 {
   "user" : "JEM",
   "host" : "DESKTOP-OK7SAA6",
-  "description" : "TEST:PV8"
+  "description" : "TEST:PV8",
+  "latching" : false,
+  "guidance" : [ {
+    "title" : "Procedure1",
+    "details" : "Valve9 Close"
+  } ]
 }
