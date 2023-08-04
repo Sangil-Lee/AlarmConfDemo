@@ -2,6 +2,7 @@
   "user" : "ctrluser",
   "host" : "devDesk",
   "description" : "TEST:PV3",
+  "latching" : false,
   "guidance" : [ {
     "title" : "Procedure1",
     "details" : "Open Valve"
